@@ -122,7 +122,7 @@ const Footer = () => {
         <Divider style={{ marginBottom: "1rem" }} />
         <Box display="flex" justifyContent="space-between" alignItems="center">
           <Typography variant="body2">
-            Copyright {new Date().getFullYear()} Thikify. All rights reserved
+            Copyright {new Date().getFullYear()} Thinkify. All rights reserved
           </Typography>
           <Box>
             <Button

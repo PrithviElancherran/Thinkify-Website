@@ -1,6 +1,8 @@
-# Thinkify
+# 🧠 Thinkify — A Collaborative Space for Thought and Productivity
 
-Thinkify is a vibrant space where people from diverse backgrounds and interests come together to engage in meaningful conversations, fostering an environment rich in idea exchange, knowledge sharing, and diverse experiences.
+Thinkify is a dynamic web platform that brings together students and thinkers from all backgrounds to exchange ideas, manage tasks, and share knowledge in an engaging, community-driven environment. It empowers users to create, edit, and organize posts, express their thoughts publicly or privately, and connect through meaningful discussions.
+
+Built with a focus on simplicity and collaboration, Thinkify helps users stay organized, inspired, and connected — making it not just a productivity tool, but a hub for creativity and shared learning.
 
 # Preview
 
@@ -14,7 +16,7 @@ Thinkify is a vibrant space where people from diverse backgrounds and interests 
 # How to Run
 
 ```
-git clone https://github.com/PrithviElancherran/thinkify.git
+git clone https://github.com/PrithviElancherran/Thinkify-Website.git
 
 # BACKEND
 cd server
